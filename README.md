@@ -35,7 +35,7 @@ Customizable study plans and progress tracking tools to help learners stay on tr
 ![storage account](https://manchesanthosh.github.io/Education-Repo/storage.png)
 
 # Static website
-![static website](https://manchesanthosh.github.io/Education-Repo/staticwebsite.png.png)
+![static website](https://manchesanthosh.github.io/Education-Repo/staticpage.png)
 
 # Container
 ![container](https://manchesanthosh.github.io/Education-Repo/container.png)
