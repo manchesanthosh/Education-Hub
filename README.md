@@ -60,28 +60,28 @@ Here I am attaching the final working website's screenshot for the reference.
 
 # Working Live Project Display:
 # Home page
-![home](https://manchesanthosh.github.io/Education-Hub/Homepage.png)
+![home](https://manchesanthosh.github.io/Education-Hub/homepage.png)
 
 # Courses page
-![Courses page](https://manchesanthosh.github.io/Education-Hub/course11.png)
+![Courses page](https://manchesanthosh.github.io/Education-Hub/course1.png)
 
 #
-![Courses page](https://manchesanthosh.github.io/Education-Hub/course22.png)
+![Courses page](https://manchesanthosh.github.io/Education-Hub/course2.png)
 
 # About Us
-![About Us](https://manchesanthosh.github.io/Education-Hub/Aboutus.png)
+![About Us](https://manchesanthosh.github.io/Education-Hub/about.png)
 
 # Top Expert page
 ![About Us](https://manchesanthosh.github.io/Education-Hub/topexperts.png)
 
 # Contact Us
-![contact Us](https://manchesanthosh.github.io/Education-Hub/Contactus.png)
+![contact Us](https://manchesanthosh.github.io/Education-Hub/Contact.png)
 
 # Chatbot page
 ![Chatbot page](https://manchesanthosh.github.io/Education-Hub/chatbot.png)
 
 # Footer page
-![Footer page](https://manchesanthosh.github.io/Education-Hub/about1.png)
+![Footer page](https://manchesanthosh.github.io/Education-Hub/footer.png)
 
 
 # Final Project Statement:
