@@ -60,7 +60,7 @@ Here I am attaching the final working website's screenshot for the reference.
 
 # Working Live Project Display:
 # Home page
-![home](https://manchesanthosh.github.io/Education-Hub/homepage.png)
+![home](https://manchesanthosh.github.io/Education-Hub/home.png)
 
 # Courses page
 ![Courses page](https://manchesanthosh.github.io/Education-Hub/course1.png)
