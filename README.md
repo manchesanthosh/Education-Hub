@@ -78,7 +78,7 @@ Here I am attaching the final working website's screenshot for the reference.
 ![About Us](https://manchesanthosh.github.io/Education-Hub/experts.png)
 
 # Contact Us
-![contact Us](https://manchesanthosh.github.io/Education-Hub/Contact.png)
+![contact Us](https://manchesanthosh.github.io/Education-Hub/contact.png)
 
 # Chatbot page
 ![Chatbot page](https://manchesanthosh.github.io/Education-Hub/chatbot.png)
