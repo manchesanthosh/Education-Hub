@@ -69,10 +69,13 @@ Here I am attaching the final working website's screenshot for the reference.
 ![Courses page](https://manchesanthosh.github.io/Education-Hub/course2.png)
 
 # About Us
-![About Us](https://manchesanthosh.github.io/Education-Hub/about.png)
+![About Us](https://manchesanthosh.github.io/Education-Hub/about1.png)
+
+#
+![About Us](https://manchesanthosh.github.io/Education-Hub/about2.png)
 
 # Top Expert page
-![About Us](https://manchesanthosh.github.io/Education-Hub/topexperts.png)
+![About Us](https://manchesanthosh.github.io/Education-Hub/experts.png)
 
 # Contact Us
 ![contact Us](https://manchesanthosh.github.io/Education-Hub/Contact.png)
